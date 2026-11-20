@@ -17,7 +17,7 @@ Análisis de datos de emisiones de CO₂ de [Our World in Data](https://ourworld
 ## Estructura
 
 ```text
-proyecto-co2/
+proyecto-final-co2/
 ├── README.md
 ├── requirements.txt
 ├── data/
